@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'mrgvlovani';
+    src: url('fonts/bpg_mrgvlovani_caps_2010.eot');
+    src: url('fonts/bpg_mrgvlovani_caps_2010.eot') format('embedded-opentype'),
+         url('fonts/bpg_mrgvlovani_caps_2010.woff2') format('woff2'),
+         url('fonts/bpg_mrgvlovani_caps_2010.woff') format('woff'),
+         url('fonts/bpg_mrgvlovani_caps_2010.ttf') format('truetype'),
+         url('fonts/bpg_mrgvlovani_caps_2010.svg#bpg_mrgvlovani_caps_2010') format('svg');
+}
+header{
+    background:grey;
+    color:white;
+}
+div.container{
+
+}
+div.col-md-12{
+    border:1px solid grey;
+    border-radius:4px;
+    margin:7px auto;
+    text-align:center;
+}
+h1{
+    font-family:'mrgvlovani';
+}
+footer{
+    height:150px;
+    background:grey;
+}
